@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DTS2019Ujian</string>
+    <string name="pesan">PESAN [+]</string>
+    <string name="jam">Jam</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nomor_meja">Nomor Meja</string>
+    <string name="harga">Harga</string>
+    <string name="kembali">Kembali</string>
+</resources>
